@@ -3,11 +3,11 @@
   "category": "food",
   "ingredients": [
     [
-      "minecraft:sweet_berries"
+      "minecraft:sweet_berries","minecraft:glow_berries"
     ],
     [
       "minecraft:sugar"
-    ]
+    ],["minecraft:glass_bottle"]
   ],
   "result": {
     "id": "foodplus:jam"
