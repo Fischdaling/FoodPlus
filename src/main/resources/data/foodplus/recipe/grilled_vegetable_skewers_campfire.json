@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": "foodplus:vegetable_skewers",
+  "result": {
+    "id": "foodplus:grilled_vegetable_skewers"
+  },
+  "experience": 0.15,
+  "cookingtime": 150
+}

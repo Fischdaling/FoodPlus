@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": "minecraft:brown_mushroom",
+  "result": {
+    "id": "foodplus:grilled_brown_mushroom"
+  },
+  "experience": 0.15,
+  "cookingtime": 150
+}

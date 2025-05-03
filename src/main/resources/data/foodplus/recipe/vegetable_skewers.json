@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+
+    [
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:brown_mushroom",
+      "minecraft:red_mushroom",
+      "minecraft:beetroot"
+    ],
+    [
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:brown_mushroom",
+      "minecraft:red_mushroom",
+      "minecraft:beetroot"
+    ],[
+      "minecraft:potato",
+      "minecraft:carrot",
+      "minecraft:brown_mushroom",
+      "minecraft:red_mushroom",
+      "minecraft:beetroot"
+    ],
+    [
+      "minecraft:stick"
+    ]
+
+  ],
+  "result": {
+    "id": "foodplus:vegetable_skewers",
+    "components": {}
+  }
+}

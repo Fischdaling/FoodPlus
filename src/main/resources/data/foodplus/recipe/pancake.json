@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#M#",
+    "WWW"
+  ],
+  "key": {
+    "#": "minecraft:sugar",
+    "M": "minecraft:milk_bucket",
+    "W": "minecraft:wheat"
+  },
+  "result": {
+    "id": "foodplus:pancake"
+  }
+}

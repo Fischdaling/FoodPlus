@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    [
+      "minecraft:bread"
+    ],
+    [
+      "minecraft:honey_bottle",
+      "minecraft:honeycomb"
+    ]
+  ],
+  "result": {
+    "id": "foodplus:honey_bread"
+  }
+}

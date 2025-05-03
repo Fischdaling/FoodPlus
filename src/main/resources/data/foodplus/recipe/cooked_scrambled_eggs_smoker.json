@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_smoking",
+  "category": "food",
+  "ingredient": "foodplus:scrambled_eggs",
+  "result": {
+    "id": "foodplus:cooked_scrambled_eggs"
+  },
+  "experience": 0.15,
+  "cookingtime": 150
+}

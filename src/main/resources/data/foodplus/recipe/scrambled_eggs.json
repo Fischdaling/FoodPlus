@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    [
+      "minecraft:bowl"
+    ],
+    [
+      "minecraft:egg",
+      "minecraft:brown_egg",
+      "minecraft:blue_egg"
+    ]
+  ],
+  "result": {
+    "id": "foodplus:scrambled_eggs"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": "minecraft:red_mushroom",
+  "result": {
+    "id": "foodplus:grilled_red_mushroom"
+  },
+  "experience": 0.15,
+  "cookingtime": 150
+}

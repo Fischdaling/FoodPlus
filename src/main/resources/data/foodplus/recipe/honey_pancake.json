@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " H ",
+    "#M#",
+    "WWW"
+  ],
+  "key": {
+    "#": "minecraft:sugar",
+    "M": "minecraft:milk_bucket",
+    "W": "minecraft:wheat",
+    "H": ["minecraft:honey_bottle","minecraft:honeycomb"]
+  },
+  "result": {
+    "id": "foodplus:honey_pancake"
+  }
+}
