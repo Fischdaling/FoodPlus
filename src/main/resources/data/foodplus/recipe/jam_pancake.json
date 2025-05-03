@@ -3,13 +3,14 @@
   "pattern": [
     " H ",
     "#M#",
-    "WWW"
+    "WEW"
   ],
   "key": {
     "#": "minecraft:sugar",
     "M": "minecraft:milk_bucket",
     "W": "minecraft:wheat",
-    "H": "foodplus:jam"
+    "H": "foodplus:jam",
+    "E": ["minecraft:brown_egg","minecraft:blue_egg","minecraft:egg"]
   },
   "result": {
     "id": "foodplus:jam_pancake"

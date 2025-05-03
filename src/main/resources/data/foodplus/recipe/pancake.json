@@ -2,12 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "#M#",
-    "WWW"
+    "WEW"
   ],
   "key": {
     "#": "minecraft:sugar",
     "M": "minecraft:milk_bucket",
-    "W": "minecraft:wheat"
+    "W": "minecraft:wheat",
+    "E": ["minecraft:brown_egg","minecraft:blue_egg","minecraft:egg"]
   },
   "result": {
     "id": "foodplus:pancake"
